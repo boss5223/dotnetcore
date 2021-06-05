@@ -1,0 +1,37 @@
+D:\ASP.NET Core Test\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\ASP.NET Core Test\bin\Debug\netcoreapp3.1\appsettings.json
+D:\ASP.NET Core Test\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\ASP.NET Core Test\bin\Debug\netcoreapp3.1\ASP.NET Core Test.exe
+D:\ASP.NET Core Test\bin\Debug\netcoreapp3.1\ASP.NET Core Test.deps.json
+D:\ASP.NET Core Test\bin\Debug\netcoreapp3.1\ASP.NET Core Test.runtimeconfig.json
+D:\ASP.NET Core Test\bin\Debug\netcoreapp3.1\ASP.NET Core Test.runtimeconfig.dev.json
+D:\ASP.NET Core Test\bin\Debug\netcoreapp3.1\ASP.NET Core Test.dll
+D:\ASP.NET Core Test\bin\Debug\netcoreapp3.1\ASP.NET Core Test.pdb
+D:\ASP.NET Core Test\bin\Debug\netcoreapp3.1\ASP.NET Core Test.Views.dll
+D:\ASP.NET Core Test\bin\Debug\netcoreapp3.1\ASP.NET Core Test.Views.pdb
+D:\ASP.NET Core Test\obj\Debug\netcoreapp3.1\ASP.NET Core Test.csprojAssemblyReference.cache
+D:\ASP.NET Core Test\obj\Debug\netcoreapp3.1\ASP.NET Core Test.AssemblyInfoInputs.cache
+D:\ASP.NET Core Test\obj\Debug\netcoreapp3.1\ASP.NET Core Test.AssemblyInfo.cs
+D:\ASP.NET Core Test\obj\Debug\netcoreapp3.1\ASP.NET Core Test.csproj.CoreCompileInputs.cache
+D:\ASP.NET Core Test\obj\Debug\netcoreapp3.1\ASP.NET Core Test.MvcApplicationPartsAssemblyInfo.cache
+D:\ASP.NET Core Test\obj\Debug\netcoreapp3.1\ASP.NET Core Test.RazorAssemblyInfo.cache
+D:\ASP.NET Core Test\obj\Debug\netcoreapp3.1\ASP.NET Core Test.RazorAssemblyInfo.cs
+D:\ASP.NET Core Test\obj\Debug\netcoreapp3.1\ASP.NET Core Test.TagHelpers.input.cache
+D:\ASP.NET Core Test\obj\Debug\netcoreapp3.1\ASP.NET Core Test.TagHelpers.output.cache
+D:\ASP.NET Core Test\obj\Debug\netcoreapp3.1\ASP.NET Core Test.RazorCoreGenerate.cache
+D:\ASP.NET Core Test\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\ASP.NET Core Test\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\ASP.NET Core Test\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\ASP.NET Core Test\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\ASP.NET Core Test\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\ASP.NET Core Test\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\ASP.NET Core Test\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\ASP.NET Core Test\obj\Debug\netcoreapp3.1\ASP.NET Core Test.RazorTargetAssemblyInfo.cache
+D:\ASP.NET Core Test\obj\Debug\netcoreapp3.1\ASP.NET Core Test.RazorTargetAssemblyInfo.cs
+D:\ASP.NET Core Test\obj\Debug\netcoreapp3.1\ASP.NET Core Test.Views.pdb
+D:\ASP.NET Core Test\obj\Debug\netcoreapp3.1\staticwebassets\ASP.NET Core Test.StaticWebAssets.Manifest.cache
+D:\ASP.NET Core Test\obj\Debug\netcoreapp3.1\staticwebassets\ASP.NET Core Test.StaticWebAssets.xml
+D:\ASP.NET Core Test\obj\Debug\netcoreapp3.1\ASP.NET Core Test.dll
+D:\ASP.NET Core Test\obj\Debug\netcoreapp3.1\ASP.NET Core Test.pdb
+D:\ASP.NET Core Test\obj\Debug\netcoreapp3.1\ASP.NET Core Test.genruntimeconfig.cache
+D:\ASP.NET Core Test\obj\Debug\netcoreapp3.1\ASP.NET Core Test.csproj.CopyComplete
